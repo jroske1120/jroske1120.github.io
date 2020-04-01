@@ -1,50 +1,102 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+	<head>
+		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+		<meta content="utf-8" http-equiv="encoding">
+		<title>Joel Roske Prime Academy Application Resume</title>
+		<link rel="stylesheet" type="text/css" href="stylesheet.css">
+	</head>
 
-<head>
-  <title>Brown Bears</title>
-</head>
-<body>
-  <a href="./index.html">Brown Bear</a>
-  <a href="./aboutme.html">About Me</a>
-  <h1> 
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="joelroske3202248499"><a class="LI-simple-link" href='https://www.linkedin.com/in/joelroske3202248499?trk=profile-badge'>Joel Roske</a></div></h1>
-  <ul>
-    <li><a href="#introduction"> Introduction</a></li>
-    <li><a href="#habitat"> Habitat</a></li>
-    <li><a href="#media">Media</a></li>
-  </ul>
-  <div id="introduction">
-    <h2>About Brown Bears</h2>
-    <p>The brown bear (<em>Ursus arctos</em>) is native to parts of northern Eurasia and North America. Its conservation status is currently <strong>Least Concern</strong>.<br /><br /> There are many subspecies within the brown bear species, including the
-      Atlas bear and the Himalayan brown bear.</p>
-    <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">Learn More</a>
-    <h3>Species</h3>
-    <ul>
-      <li>Arctos</li>
-      <li>Collarus</li>
-      <li>Horribilis</li>
-      <li>Nelsoni (extinct)</li>
-    </ul>
-    <h3>Features</h3>
-    <p>Brown bears are not always completely brown. Some can be reddish or yellowish. They have very large, curved claws and huge paws. Male brown bears are often 30% larger than female brown bears. They can range from 5 feet to 9 feet from head to toe.</p>
-  </div>
-  <div id="habitat">
-    <h2>Habitat</h2>
-    <h3>Countries with Large Brown Bear Populations</h3>
-    <ol>
-      <li>Russia</li>
-      <li>United States</li>
-      <li>Canada</li>
-    </ol>
-    <h3>Countries with Small Brown Bear Populations</h3>
-    <p>Some countries with smaller brown bear populations include Armenia, Belarus, Bulgaria, China, Finland, France, Greece, India, Japan, Nepal, Poland, Romania, Slovenia, Turkmenistan, and Uzbekistan.</p>
-  </div>
-  <div id="media">
-    <h2>Media</h2>
-    <a href="www.linkedin.com/in/joelroske3202248499" target="_blank"><img src="https://lh3.googleusercontent.com/ueHc1bpzG015YXH8wEJLNOU3GZOH2OQQAlqxl1zRavtPbGLNCprSTBSabIIZHsclHieQOQiRXm-jYfIunvYX4w-rGDXbRPDwhX8mJKMhiVB4sLXgb6kVQknq6de7fF0dJ4DWcMoc27VB2K10lqfEiw6Ope4Dx7GkhYWAjo-pd_azCe9WG56fECsg87sWX4mB8YJKhQJpCHy6oRtR7SBWBFE93Dh82LaNk8ZPVBLZInzuREDKtPFbxuXrbwMrK0c5DDGHA8ZD7PVNe3uewubgs7Uc06ZDgV-wkVhvbTjAuNGE0M1Bs-4lpycE-ijpssqiqeooEIp1JrJWnPTfC87jnElAsOLbkhUK_qdCnA3ZGBzimcIkN3whpAPfWlKRTPwrs5fs-0tQ4002ZxLhXmFMJ8WEdK76XWLS1cFxYAHsoif1tbnxmkaAHndYnLFfyUxxvIR-JGu2rYNVzTWFRvLz6euk-AOowuIwiWS7_EKJ9YuD7FMJctkpIxNL4QIjx-oM-lI3URa2AV5b5FOd1K1NKxRzV_zrniLQSm-wqqZGrvT5hE77Q9ImJqoBPfPN7if-Ix1iYoGy357J1NYk7LI_Xd38VwJwI0LzRimMa6kkwBE64mGNWUeHa1ioCJgEogAWMsQXaojjjm1-Ly48DrigJurxUrxPqwWFAYe9RV9nN3YsXOGQSESstQ=w510-h636-no" style="width:200px;height:240px;"/></a>
-    <video src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" height="240" width="320" controls>Video not supported</video>
-  </div>
-</body>
+	<body>
+		<div id="container">
+			<img src="ScottPhoto.png" id="pic">
+			<div id="content-contact">
+				Joel Roske
+			</div>
 
+			<div id="content-info">
+				<p>
+					Phone: 320-224-8499
+					<br>
+					Address: 5255 W 82 Street Unit 120, Minneapolis, MN, 55437
+				</p>
+			</div>
+
+			<div id="content-body">
+				<div id="content-summary">
+					<div id="content-summarycontent">
+						Strongly self-motivated, creative, lively individual with a passion for bridging the gap between People and the Technology they interact with. 
+						Relationship centric mentality that is driven by a deep understanding that through teamwork anything is possible.
+					</div>
+				</div>
+
+				<div id="content-professional"> 
+					<div id="content-professionalheader">
+						Professional Experience
+					</div>
+					<div id="content-nerdery">
+						<h3>The Nerdery</h3>
+						<div class="block-date">
+								<div class="date">August 2011 - Current</div>
+								<h4>Interactive Developer</h4>
+								
+						</div>		
+						<div class"block-content">
+								<ul>	
+									<li>Develop interactive content using Actionscript, Unity3D with C#, and Javascript with HTML5 Canvas to construct functional, engaging content that surpassed the desires out our clients. </li>
+									<li>Adhere to meticulous coding standards while developing, which included not only best practices in coding, but also use and understanding of Model / View / Controller and Design Patterns.</li>
+									<li>Act as a team member to help close knowledge gaps through one on one communication or facilitating introductions between team members who may be unaware of each others offering.</li>
+									<li>Cross-functionally work with other departments to assist wherever possible for the betterment of either the company or a clients project, this includes, but it not limited to; giving webinars with the marketing team, assisting the Solutions Engineering Team with estimates, and participating in Sales Calls and Meetings between the Sales teams and potential Clients. </li>
+									<li>Work one on one with the End Client to design and develop solutions that exceed their business needs through providing insight that is both cutting edge while easily accessible to the end user.</li>
+									<li>Embodying the companys core values to be a role model to other team members.</li>
+								</ul>	
+						</div>
+					</div>
+
+					<div id="content-sanford">
+						<h3>Sanford Brown</h3>
+						<div class="block-date">
+								<div class="date">February 2010 - Current</div>
+								<h4>Adjunct Instructor</h4>
+						</div>		
+						<div class"block-content">
+								<ul>	
+									<li>Mastery in Photoshop, Illustrator, and Flash coupled with the proven ability to effectively communicate difficult concepts has led to the honor of being the students’ first interaction with Digital Imaging and Programming Concepts.</li>
+									<li>Provide critical abundant feedback on assignments to supplement individual student’s education in the area of engaging Game Design.</li>
+									<li>Act as a mentor to students to showcase not only how to execute complex ideas and methodologies, but also model work habits and execution.</li>
+									<li>Developed of Team Based Senior Level classes that focus on the fundamentals of Team Communication, Project Management Methodologies (including Scrum and Waterfall), and Budget Forecasting.</li>
+								</ul>	
+						</div>
+					</div>
+
+					<div id="content-bestbuy">
+						<h3>Best Buy</h3>
+						<div class="block-date">
+								<div class="date">August 2010 - 2011</div>
+								<h4>Interactive Content Developer</h4>
+						</div>		
+						<div class"block-content">
+								<ul>	
+									<li>Self-managed technical development of the course series and communicated key deliverables to business partners.</li>
+									<li>Coordinate with multiple teams to develop the content for E-Learning courses in an effort to keep the material fresh, relevant, and accurate.
+									</li>
+									<li>Follow up post E-Learning launch to ensure that the content is well received from those who are interacting with it and making any necessary changes to keep the trainings entertaining while still conveying the intended message.</li>
+								</ul>
+						</div>
+
+						<div class="block-date">
+								<div class="date">Febrary 2010 - August 2010</div>
+								<h4>Training Specialist</h4>
+						</div>		
+						<div class"block-content">
+								<ul>	
+									<li>Facilitated and lead groups of 100 people in a training environment and ensure every attendees understanding of the material by monitoring engagement and understanding.</li>
+									<li>Maintained strong organizational skills as the position demanded a self disciplined schedule that included Communicating with remote partners, booking flights, hotels, and car rentals on a weekly basis.</li>
+								</ul>	
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
 </html>
