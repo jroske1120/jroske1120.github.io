@@ -9,7 +9,7 @@
 
 	<body>
 		<div id="container">
-			<img src="ScottPhoto.png" id="pic">
+			<img src="JoelPhoto.jpg" id="pic">
 			<div id="content-contact">
 				Joel Roske
 			</div>
