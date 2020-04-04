@@ -4,3 +4,15 @@ body {
   background-image: url("https://3pc57m1zwnnj1cwbkd23g5up-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/web-designer-pune-background.jpg");
   background-color: #cccccc;
 }
+ <style>
+  .header {
+    height:75px; 
+    width: 350px; 
+    background-color:lightblue; 
+    float: center; 
+    padding:10px; 
+    margin:20px;
+    text-align:centre; 
+    font-size:24px;
+  }
+</style>
