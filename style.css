@@ -17,7 +17,11 @@ body {
   i { text-align: center;
     color: #6695c1;
 }
-  
+
+a:link {
+  color: #6695c1;
+  text-decoration: none;
+}
 
 ul {
   padding: 20px;
