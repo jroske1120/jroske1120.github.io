@@ -19,6 +19,9 @@ body {
   margin: 0;
   padding: 0;
 }
+ul.b {
+  list-style-type: square;
+}
 /* Table */
 
 table {
