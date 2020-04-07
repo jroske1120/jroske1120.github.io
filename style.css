@@ -10,14 +10,10 @@ body {
   padding: 10;
   font-size: 18px;
 
-  h1 { text-align: center }
+ h1 { text-align: center }
   h3 { text-align: center }
   i { text-align: center;
     color: #6695c1;
-  }
-  a:link {
-  color: #6695c1;
-  text-decoration: none;
 }
   
 
@@ -25,7 +21,6 @@ ul {
   padding: 20px;
   margin-right: 240px;
   margin-left: 10px;
-  border: 1px solid white;
   list-style-type: square;
 }
 }
@@ -57,8 +52,7 @@ th, td {
   width: 50%;
 }
 table, th, td {
-  border: 1px solid black;
-  font-family: Montserrat, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   font-size: 18px;
   text-align: center;
