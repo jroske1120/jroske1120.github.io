@@ -4,7 +4,6 @@ body {
   background-image: url("https://3pc57m1zwnnj1cwbkd23g5up-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/web-designer-pune-background.jpg");
   background-color: #cccccc;
 }
- <style>
   .header {
     height:75px; 
     width: 350px; 
@@ -15,4 +14,49 @@ body {
     text-align:centre; 
     font-size:24px;
   }
-</style>
+body {
+  background: #f2f2f2;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+/* Table */
+
+table {
+  height: 50%;
+  left: 10%;
+  margin: 50px auto;
+  overflow-y: scroll;
+  position: static;
+  width: 50%;
+}
+
+thead th {
+  background: #e1f7f4;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+tr {
+  background: #f2f2f2;
+  border-bottom: 1px;
+  margin-bottom: 5px;
+}
+
+th, td {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  padding: 15px;
+  text-align: center;
+  width: 50%;
+}
+table, th, td {
+  border: 1px solid black;
+  font-family: Montserrat, sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
