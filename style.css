@@ -5,9 +5,9 @@ body {
   font-family: 'Montserrat', sans-serif;
   margin: 0;
   padding: 0;
-}
-ul.b {
+ ul.b {
   list-style-type: square;
+}
 }
 /* Table */
 
@@ -15,7 +15,7 @@ table {
   height: 50%;
   left: 10%;
   margin: 50px auto;
-  position: fluid;
+  position: static;
   width: 50%;
 }
 
@@ -28,6 +28,7 @@ thead th {
   text-transform: uppercase;
 }
 th, td {
+  background: #e8e8e8;
   font-family: 'Montserrat', sans-serif;
   font-size: 15px;
   padding: 15px;
