@@ -1,7 +1,7 @@
 
  #pic { float: right; 
    margin: 30px 100px 0 0;
-   box-shadow: 10px 10px 20px black;
+   box-shadow: 10px 10px 20px ;
 }
 body {
   background-image: url("https://3pc57m1zwnnj1cwbkd23g5up-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/web-designer-pune-background.jpg");
@@ -43,7 +43,7 @@ table {
   float: left; 
   margin-left: 10px;
   position: static;
-  width: 30%;
+  width: 35%;
 }
 
 thead th {
@@ -62,10 +62,10 @@ th, td {
   width: 50%;
 }
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid #000000;
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   font-size: 18px;
   text-align: center;
-  width: 30%;
+  width: 35%;
   }
