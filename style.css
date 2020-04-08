@@ -62,8 +62,7 @@ th, td {
   width: 50%;
 }
 table, th, td {
-  border: 1px solid #000000;
-  border-color: #000000;
+  border: 1px solid;
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   font-size: 18px;
