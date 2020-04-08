@@ -1,49 +1,48 @@
 
  #pic { float: right; 
-   margin: 30px 100px 0 0; 
-   box-shadow: 10px 10px 20px #000000;
+   margin: 30px 100px 0 0;
+   box-shadow: 10px 10px 20px black;
 }
 body {
   background-image: url("https://3pc57m1zwnnj1cwbkd23g5up-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/web-designer-pune-background.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   font-family: 'Montserrat', sans-serif;
   margin-left: 10 10 10 10;
   padding: 10;
- font-size: 18px;}
-
- h1 { 
-  text-align: center 
- }
-  h3 { text-align: center
+  font-size: 18px;
 }
+  
+  h1 { text-align: center }
+  h3 { text-align: center }
   i { text-align: center;
     color: #6695c1;
 }
-
-a:link {
-  color: #6695c1;
-  text-decoration: none;
-}
-
-class {
+ a{  
   color: #6695c1;
 }
-
+p {
+  padding: 10px;
+  margin-left: 10px;
+}
 ul {
   padding: 20px;
   margin-right: 240px;
   margin-left: 10px;
   list-style-type: square;
+  }
+class {
+  color: #6695c1;
 }
-}
-/* Table */
-
 table {
   height: 50%;
   left: 10%;
   float: left; 
   margin-left: 10px;
   position: static;
-  width: 50%;
+  width: 30%;
 }
 
 thead th {
@@ -63,9 +62,10 @@ th, td {
   width: 50%;
 }
 table, th, td {
-  font-family: 'Montserrat', sans-serif;
+  border: 1px solid black;
+  font-family: Montserrat, sans-serif;
   font-weight: 500;
   font-size: 18px;
   text-align: center;
-  width: 35%;
+  width: 30%;
   }
