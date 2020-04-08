@@ -23,6 +23,10 @@ a:link {
   text-decoration: none;
 }
 
+class {
+  color: #6695c1;
+}
+
 ul {
   padding: 20px;
   margin-right: 240px;
