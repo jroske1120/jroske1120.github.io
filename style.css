@@ -55,7 +55,6 @@ thead th {
   text-transform: uppercase;
 }
 th, td {
-  background: #e8e8e8;
   font-family: 'Montserrat', sans-serif;
   font-size: 18px;
   padding: 15px;
@@ -64,7 +63,7 @@ th, td {
 }
 table, th, td {
   border: 1px solid black;
-  font-family: Montserrat, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   font-size: 18px;
   text-align: center;
