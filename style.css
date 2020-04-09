@@ -1,8 +1,9 @@
-
- #pic { float: right; 
-   margin: 30px 100px 0 0;
+#pic { 
+   float: right; 
+   margin: 30px 100px 10px 10px;
    box-shadow: 10px 10px 20px ;
 }
+
 body {
   background-image: url("https://3pc57m1zwnnj1cwbkd23g5up-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/web-designer-pune-background.jpg");
   background-position: center center;
@@ -13,8 +14,8 @@ body {
   margin-left: 10px;
   font-size: 18px;
 }
-  
-  h1 { 
+
+h1 { 
     text-align: center 
 }
 
@@ -27,10 +28,12 @@ a{
   color: #6695c1;
   text-decoration: none;
 }
+
 p {
   padding: 10px;
   margin-left: 10px;
 }
+
 ul {
   padding: 20px;
   margin-right: 240px;
