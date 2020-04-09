@@ -30,13 +30,13 @@ a{
 }
 p {
   padding: 10px;
-  margin-left: 60px;
+  margin-left: 10px;
   margin-right: 500px;
 }
 ul {
   padding: 5px;
   margin-right: 500px;
-  margin-left: 60px;
+  margin-left: 10px;
   list-style-type: square;
   }
 
