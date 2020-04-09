@@ -10,8 +10,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   font-family: 'Montserrat', sans-serif;
-  margin-left: 60px;
-  margin-right: 500px;
+  margin-left: 10px;
   font-size: 18px;
 }
   
@@ -31,11 +30,9 @@ a{
 p {
   padding: 10px;
   margin-left: 10px;
-  margin-right: 500px;
 }
 ul {
   padding: 5px;
-  margin-right: 500px;
   margin-left: 10px;
   list-style-type: square;
   }
