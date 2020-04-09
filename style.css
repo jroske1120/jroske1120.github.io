@@ -10,17 +10,20 @@ body {
   background-attachment: fixed;
   background-size: cover;
   font-family: 'Montserrat', sans-serif;
-  margin-left: 10 10 10 10;
-  padding: 10;
+  margin-left: 10px;
   font-size: 18px;
 }
   
-  h1 { text-align: center }
-  h3 { text-align: center }
-  i { text-align: center;
-    color: #6695c1;
+  h1 { 
+    text-align: center 
 }
- a{  
+
+h4 {
+  text-align: center;
+  margin-top: -20px;
+}
+ 
+a{  
   color: #6695c1;
   text-decoration: none;
 }
@@ -34,9 +37,7 @@ ul {
   margin-left: 10px;
   list-style-type: square;
   }
-class {
-  color: #6695c1;
-}
+
 table {
   height: 50%;
   left: 10%;
